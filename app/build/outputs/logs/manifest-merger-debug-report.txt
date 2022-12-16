@@ -1,0 +1,353 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8edb89aa87a09c587c93e9abdf55f87b/databinding-adapters-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/cc00d5f25efec16198af9a233cbc6edd/databinding-runtime-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/53c74790249a06b21e5bdcf3a97c1614/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7eaf661a82be1be993424671f7fc6f18/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/991eaf2b6472a37f0a174897411ac727/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/13e46139c8f6847f40ae359856e5c97f/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/12cdb4685482b1413dc9e741f1093de9/koin-androidx-scope-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/aa17ac74a23167bd2f572c6c8f9c564d/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3cbf73a91c859247ccc0f9a3f51c39c5/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8fb6e367a50fb6f2a9a1f1f87833d0ed/fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3111bd35fe66dd437008cd02c2294798/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8104104ea4826ee9c935191d9eaa4b89/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/6c724bf1e57f81b1f44e7559e76cd180/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ae13fd884b429ec3ad7e493c488cb180/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/167644d0df02d896d131d0a0902c3517/ui-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a8fbd5e6672c7948874dcd11dc1f184e/room-rxjava2-2.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/42c85829c3ccefbaac23415292709ba0/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/b739b0265d6c1e9a5f9daf18860ac24b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a7f6d5e6612bda038e3ec19c86d27397/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ddd084bdae49ee651827d174124f8f50/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/71ac2587cc63fa4d64522c38d27e12e2/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/dbc5d5a72f41d07623f403a9b0d0c9af/koin-android-2.2.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-coroutines:2.1.0-alpha04] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4623e6d8bb018dacb923c17bf2d6e66d/room-coroutines-2.1.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d90588f12174f8061f576f9e51b80472/ui-text-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9097d0b721c25c1ed8deec89bc26ecbe/runtime-saveable-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d8a8c4aeccb74ae822675431cdaf101a/ui-graphics-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d0f485579a8150ac9f2fba094c1e3f9f/ui-unit-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d5a78fc9e25b305098e957df75213d4a/ui-geometry-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/62937480ca8cb3d5ab771b4d3a28a4d5/runtime-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/994576155ff33ffc371401ca47f26dce/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/82f956e2137cf55cdb98541be9a0459c/ui-util-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c93141e778c82335cc45f9f1cd25543/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/277d69dcf2e463a2536884d770a6b448/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d2eac066c26a25e02b3750439eb15734/timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7ea79ee630c5fea42858d38ed523def3/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9f9c51c96719269fcb3ae4d7a448909/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9690603939cd5f38203da52824aad6c/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4a73cea3453ddc3442884095ee3d992b/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/40fde0172d2b9e07eeecd1f390337801/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/51a6e156a4f641151374e6f4ed9fc523/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/532748b66c8e073a0950c04b7fb3dac9/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/e75b3590c879a68beca8899a8e3a4295/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4d9c3d0da31c3954d43cbcce392e7dd5/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3afa87e9bb9a9441b04ce3e79ce0795d/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/41eed925e6c45f8c4b1ce833fac52f75/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/476d58516881ec5d55af756c0f0e09f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f7e00a89488f4ca08e0520c00dd0334a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7aad86a58ff5bbc0ee7ab1fb6b33fbac/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/53c74790249a06b21e5bdcf3a97c1614/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/53c74790249a06b21e5bdcf3a97c1614/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/991eaf2b6472a37f0a174897411ac727/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/991eaf2b6472a37f0a174897411ac727/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/13e46139c8f6847f40ae359856e5c97f/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/13e46139c8f6847f40ae359856e5c97f/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/12cdb4685482b1413dc9e741f1093de9/koin-androidx-scope-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/12cdb4685482b1413dc9e741f1093de9/koin-androidx-scope-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3cbf73a91c859247ccc0f9a3f51c39c5/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3cbf73a91c859247ccc0f9a3f51c39c5/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d2eac066c26a25e02b3750439eb15734/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d2eac066c26a25e02b3750439eb15734/timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/e75b3590c879a68beca8899a8e3a4295/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/e75b3590c879a68beca8899a8e3a4295/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:13:9-48
+	android:icon
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:15:9-50
+	android:networkSecurityConfig
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:12:9-69
+	android:usesCleartextTraffic
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:8:9-37
+activity#com.imaginato.homeworkmvvm.ui.login.LoginActivity
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:19:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.imaginato.homeworkmvvm.ui.demo.MainActivity
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:27:9-58
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:27:19-55
+meta-data#preloaded_fonts
+ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:29:9-31:57
+	android:resource
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:31:13-54
+	android:name
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml:30:13-43
+uses-sdk
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8edb89aa87a09c587c93e9abdf55f87b/databinding-adapters-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8edb89aa87a09c587c93e9abdf55f87b/databinding-adapters-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/cc00d5f25efec16198af9a233cbc6edd/databinding-runtime-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/cc00d5f25efec16198af9a233cbc6edd/databinding-runtime-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9623811fa4c1f8f0ac456a71b88ab76c/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/53c74790249a06b21e5bdcf3a97c1614/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/53c74790249a06b21e5bdcf3a97c1614/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7eaf661a82be1be993424671f7fc6f18/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7eaf661a82be1be993424671f7fc6f18/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/991eaf2b6472a37f0a174897411ac727/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/991eaf2b6472a37f0a174897411ac727/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/13e46139c8f6847f40ae359856e5c97f/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/13e46139c8f6847f40ae359856e5c97f/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/12cdb4685482b1413dc9e741f1093de9/koin-androidx-scope-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/12cdb4685482b1413dc9e741f1093de9/koin-androidx-scope-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/aa17ac74a23167bd2f572c6c8f9c564d/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/aa17ac74a23167bd2f572c6c8f9c564d/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/2da2bfc5c8c8d8a3cbe35c60c1702b2a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3cbf73a91c859247ccc0f9a3f51c39c5/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3cbf73a91c859247ccc0f9a3f51c39c5/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8fb6e367a50fb6f2a9a1f1f87833d0ed/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8fb6e367a50fb6f2a9a1f1f87833d0ed/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3111bd35fe66dd437008cd02c2294798/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3111bd35fe66dd437008cd02c2294798/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8104104ea4826ee9c935191d9eaa4b89/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/8104104ea4826ee9c935191d9eaa4b89/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/6c724bf1e57f81b1f44e7559e76cd180/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/6c724bf1e57f81b1f44e7559e76cd180/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ae13fd884b429ec3ad7e493c488cb180/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ae13fd884b429ec3ad7e493c488cb180/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/167644d0df02d896d131d0a0902c3517/ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/167644d0df02d896d131d0a0902c3517/ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a8fbd5e6672c7948874dcd11dc1f184e/room-rxjava2-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a8fbd5e6672c7948874dcd11dc1f184e/room-rxjava2-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/42c85829c3ccefbaac23415292709ba0/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/42c85829c3ccefbaac23415292709ba0/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/b739b0265d6c1e9a5f9daf18860ac24b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/b739b0265d6c1e9a5f9daf18860ac24b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c74372eb69b9b8e71cf96d7f5acbb43/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a7f6d5e6612bda038e3ec19c86d27397/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a7f6d5e6612bda038e3ec19c86d27397/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ddd084bdae49ee651827d174124f8f50/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ddd084bdae49ee651827d174124f8f50/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/71ac2587cc63fa4d64522c38d27e12e2/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/71ac2587cc63fa4d64522c38d27e12e2/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-android:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/dbc5d5a72f41d07623f403a9b0d0c9af/koin-android-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.2.2] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/dbc5d5a72f41d07623f403a9b0d0c9af/koin-android-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-coroutines:2.1.0-alpha04] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4623e6d8bb018dacb923c17bf2d6e66d/room-coroutines-2.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-coroutines:2.1.0-alpha04] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4623e6d8bb018dacb923c17bf2d6e66d/room-coroutines-2.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d90588f12174f8061f576f9e51b80472/ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d90588f12174f8061f576f9e51b80472/ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9097d0b721c25c1ed8deec89bc26ecbe/runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9097d0b721c25c1ed8deec89bc26ecbe/runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d8a8c4aeccb74ae822675431cdaf101a/ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d8a8c4aeccb74ae822675431cdaf101a/ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d0f485579a8150ac9f2fba094c1e3f9f/ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d0f485579a8150ac9f2fba094c1e3f9f/ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d5a78fc9e25b305098e957df75213d4a/ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d5a78fc9e25b305098e957df75213d4a/ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/62937480ca8cb3d5ab771b4d3a28a4d5/runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/62937480ca8cb3d5ab771b4d3a28a4d5/runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/994576155ff33ffc371401ca47f26dce/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/994576155ff33ffc371401ca47f26dce/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/82f956e2137cf55cdb98541be9a0459c/ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/82f956e2137cf55cdb98541be9a0459c/ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c93141e778c82335cc45f9f1cd25543/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/1c93141e778c82335cc45f9f1cd25543/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/277d69dcf2e463a2536884d770a6b448/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/277d69dcf2e463a2536884d770a6b448/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d2eac066c26a25e02b3750439eb15734/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d2eac066c26a25e02b3750439eb15734/timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7ea79ee630c5fea42858d38ed523def3/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7ea79ee630c5fea42858d38ed523def3/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/30154f6ab1e04b25a3dc69d9a3a650d2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9c23346d078db6a91510814c6f1f180f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/68082369b436b0f1a41bb6d663c6bcb9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/0768c62e08c6e7847a77155d97558f01/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/a387f27385550de2c158689e68700b9e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/071716c8ffa512be7ce0ae8ee4dc3968/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9f9c51c96719269fcb3ae4d7a448909/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9f9c51c96719269fcb3ae4d7a448909/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/9953ade05dc14a070124801df2bd0a63/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9690603939cd5f38203da52824aad6c/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/c9690603939cd5f38203da52824aad6c/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/018857785a8612d8a3304d91e5bbecd1/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4a73cea3453ddc3442884095ee3d992b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4a73cea3453ddc3442884095ee3d992b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/04947d34670cd67edfce8a7d8ea5bc25/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/ffa596c1f9a25afa265e12d5403be142/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/40fde0172d2b9e07eeecd1f390337801/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/40fde0172d2b9e07eeecd1f390337801/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/51a6e156a4f641151374e6f4ed9fc523/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/51a6e156a4f641151374e6f4ed9fc523/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/684ec28b4d47b99702b87e0142b87abc/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/532748b66c8e073a0950c04b7fb3dac9/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/532748b66c8e073a0950c04b7fb3dac9/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/e75b3590c879a68beca8899a8e3a4295/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/e75b3590c879a68beca8899a8e3a4295/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4d9c3d0da31c3954d43cbcce392e7dd5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/4d9c3d0da31c3954d43cbcce392e7dd5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3afa87e9bb9a9441b04ce3e79ce0795d/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/3afa87e9bb9a9441b04ce3e79ce0795d/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/41eed925e6c45f8c4b1ce833fac52f75/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/41eed925e6c45f8c4b1ce833fac52f75/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/476d58516881ec5d55af756c0f0e09f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/476d58516881ec5d55af756c0f0e09f1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f7e00a89488f4ca08e0520c00dd0334a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f7e00a89488f4ca08e0520c00dd0334a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/d6395cfe473b878009feabb793af2246/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7aad86a58ff5bbc0ee7ab1fb6b33fbac/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/7aad86a58ff5bbc0ee7ab1fb6b33fbac/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/92a1db1920b883256391bb9edea58db0/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f938aae1885f7809ad16d788a4597310/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/emorphis/.gradle/caches/transforms-2/files-2.1/f339032be9a037f8f712b184b18f53b3/profileinstaller-1.0.1/AndroidManifest.xml:43:25-88

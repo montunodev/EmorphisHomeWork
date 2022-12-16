@@ -1,0 +1,32 @@
+com/imaginato/homeworkmvvm/BuildConfig.java
+ com.imaginato.homeworkmvvm.BuildConfig
+com/imaginato/homeworkmvvm/data/local/login/UserDatabase_Impl.java
+ com.imaginato.homeworkmvvm.data.local.login.UserDatabase_Impl
+ com.imaginato.homeworkmvvm.data.local.login.UserDatabase_Impl$1
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/imaginato/homeworkmvvm/DataBinderMapperImpl.java
+ com.imaginato.homeworkmvvm.DataBinderMapperImpl
+ com.imaginato.homeworkmvvm.DataBinderMapperImpl$InnerBrLookup
+ com.imaginato.homeworkmvvm.DataBinderMapperImpl$InnerLayoutIdLookup
+com/imaginato/homeworkmvvm/data/local/demo/DemoDatabase_Impl.java
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDatabase_Impl
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDatabase_Impl$1
+com/imaginato/homeworkmvvm/databinding/ActivityMainBinding.java
+ com.imaginato.homeworkmvvm.databinding.ActivityMainBinding
+com/imaginato/homeworkmvvm/DataBindingTriggerClass.java
+ com.imaginato.homeworkmvvm.DataBindingTriggerClass
+com/imaginato/homeworkmvvm/data/local/demo/DemoDao_Impl.java
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDao_Impl
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDao_Impl$1
+com/imaginato/homeworkmvvm/databinding/ActivityLoginBinding.java
+ com.imaginato.homeworkmvvm.databinding.ActivityLoginBinding
+com/imaginato/homeworkmvvm/BR.java
+ com.imaginato.homeworkmvvm.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/imaginato/homeworkmvvm/data/local/login/UserDao_Impl.java
+ com.imaginato.homeworkmvvm.data.local.login.UserDao_Impl
+ com.imaginato.homeworkmvvm.data.local.login.UserDao_Impl$1

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/emorphis/Desktop/Rishabh/Demo_Projects/HomeWorkMVVM/app/src/main/res/layout/activity_login.xml"
+    }
+]
